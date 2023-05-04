@@ -1,5 +1,5 @@
 # Jacob_et_al_2023
-R Scripts, Jupyter Notebooks, Conda Environments for Jacob et al. 2023 (Developmental Cell) 
+R Scripts, Jupyter Notebooks, Conda Environments for Jacob et al. 2023
 
 Additional material is available on Zenodo (coming soon).
 
